@@ -1,0 +1,147 @@
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+c:\users\bimeks\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\bimeks\Desktop\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mesaj.resources
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mesaj.resources
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bimeks\Desktop\Proje - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mesaj.resources
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Konum.resources
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.dll
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\bimeks\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.xml
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.dll
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.xml
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Konum.resources
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mesaj.resources
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\AirMax\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TumVeritabani.resources
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.dll
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.xml
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Konum.resources
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mesaj.resources
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TumVeritabani.resources
+C:\Users\bimeks\Desktop\test1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.dll
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.WindowsForms.xml
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.xml
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Konum.resources
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mesaj.resources
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TumVeritabani.resources
+F:\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.dll
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.WindowsForms.xml
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.xml
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Konum.resources
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mesaj.resources
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TumVeritabani.resources
+G:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Yeni klasör\proje\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.dll
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\bin\Debug\GMap.NET.Core.xml
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anaekran.resources
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arama.resources
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Konum.resources
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mesaj.resources
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rehber.resources
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TumVeritabani.resources
+C:\Users\AirMax\Desktop\Çalışmalar\C#\tamamlanan\Gsm+Gps Masaüstü Tarafı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+http://rayetkin.blogspot.com.tr/2009/04/sql-tablo-ve-id-sfrlama.html - php tablo sýfýrlama iþlemi
+http://stackoverflow.com/questions/19511597/how-to-get-address-location-from-latitude-and-longitude-in-google-map - latitude ve longitude ile adress bulma
+https://developers.google.com/maps/documentation/static-maps/intro#scale_values  -  google static map api 
+http://stackoverflow.com/questions/13506832/what-is-the-mysql-varchar-max-size   - veritabanýna karakter sayýsý fazla olan metin eklemek
+http://www.w3schools.com/html/html5_geolocation.asp                              - html5 geolcation api
+http://radixcode.com/top-free-4-hosts-that-provide-remote-access-to-mysql-database/  - remote mysql desteði saðlayan siteler
+http://www.freesqldatabase.com/    -  uzak mysql için kullandýðýmýz site
+http://stackoverflow.com/questions/28585176/connecting-to-localhost-database-phpmyadmin-using-c-sharp - c# tarafýndan web tarafýndaki bir mysql veritabanýna baðlanmak 
+http://www.kodhatasi.com/question/c-mysql-uzak-baglanti-hatasi/  - c# tarafýnda alýnan uzak sunucuya baðlanamýyor hatasýnýn nedeni ( kullandýðýmýz host firmasýnýn remote mysql desteði yokmuþ )
+http://stackoverflow.com/questions/19787270/mysql-doesnt-work-in-visual-studio-2012-the-type-or-namespace-name-mysql-co  - alýnan CS0246 kodlu hatanýn çözümü (mysql.data.dll eklenmemiþ)
+http://stackoverflow.com/questions/4151593/alternatives-to-google-maps-api  -  Google map api alternatifleri
+http://forum.ceviz.net/t/sqlde-alan-degeri-ayni-olan-kayitlardan-birer-tane-listeleme.122660/
+http://www.yazgelistir.com/makale/sql-ile-veritabani-sorgulama  - WHERE ifadesi kýyasalama text string ise
+https://azkod.wordpress.com/2011/02/11/uygulamanin-calistigi-dizini-bulmak/  - c# uygulamanýn dizinini bulmak
+http://csharpkomutlari.blogspot.com.tr/2010/05/c-da-text-dosyadan-kayt-silme-islemi.html  - c# metin belgesi okuma ve yazma 
+http://www.w3schools.com/bootstrap/ - tasarým kýsmý
+http://www.duzce.edu.tr/dosya/logo/DU.png  - site logo
+http://stackoverflow.com/questions/18301745/how-to-set-up-a-favicon - site favicon ayarý
+http://ariferzin.blogspot.com.tr/2013/09/c-varsaylan-tarayc-ile-web-sitesi-acmak.html - c# ile linki tarayýcýda açmak

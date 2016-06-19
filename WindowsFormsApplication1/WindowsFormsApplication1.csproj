@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B9247E6-E145-4AF3-B14B-832293CF5270}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GMap.NET.WindowsForms">
+      <HintPath>..\..\..\Downloads\GMap.NET.WindowsForms\Release-NETv4.0\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.8\lib\net45\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anaekran.Designer.cs">
+      <DependentUpon>Anaekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon Kontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon Kontrol.Designer.cs">
+      <DependentUpon>Telefon Kontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Konum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Konum.Designer.cs">
+      <DependentUpon>Konum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mesaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mesaj.Designer.cs">
+      <DependentUpon>mesaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Rehber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rehber.Designer.cs">
+      <DependentUpon>Rehber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TumVeritabani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TumVeritabani.Designer.cs">
+      <DependentUpon>TumVeritabani.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anaekran.resx">
+      <DependentUpon>Anaekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon Kontrol.resx">
+      <DependentUpon>Telefon Kontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Konum.resx">
+      <DependentUpon>Konum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mesaj.resx">
+      <DependentUpon>mesaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rehber.resx">
+      <DependentUpon>Rehber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TumVeritabani.resx">
+      <DependentUpon>TumVeritabani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\callr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telefon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Email-send-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call-outgoing-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contacts-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Message-already-read-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\device-camera-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Email-send-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kilit_acik.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kilit_kapali.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Action-decrypted-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Action-encrypted-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map-pin-location.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-Google-Maps-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telephone-keypad_thumb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Control-Panel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Preview-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resimpreview.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
