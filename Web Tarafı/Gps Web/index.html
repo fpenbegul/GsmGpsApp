@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="jquery-1.12.3.min.js"></script>
+</head>
+<body>
+<p>&nbsp;</p>
+<p>Konumunuzu Kaydetmek İçin Butona Tıklayın.
+  İsminiz:
+  <input type="text" name="metin"/>
+</p>
+<button onclick="getLocation()">Konumumu Kaydet</button>
+<p id="x"></p>
+<p id="y"></p>
+</div><br><br><br><br><br><br><br><br>
+
+<?php date_default_timezone_set('Europe/Istanbul'); ?>
+<script>
+    var x = document.getElementById("x");
+    var y = document.getElementById("y");
+
+    function getLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition);
+        } else { 
+            x.innerHTML = "Geolocation is not supported by this browser.";
+        }
+    }
+
+    function showPosition(position) {
+
+        var lon= position.coords.longitude;
+        var lat= position.coords.latitude;
+    	var speed= position.coords.speed;
+		var latlng=position.coords.latitude+","+position.coords.longitude;
+        var metin = $("[name=metin]").val();
+		var gpstekisaat=position.timestamp;
+
+        y.innerHTML=lon;
+        x.innerHTML=lat;
+		//x.innerHTML=gpstekisaat;
+
+        $.ajax({
+                type: 'POST',
+                url: 'ajax.php',
+                data:  { lat:lat, lon:lon, speed:speed, metin:metin, latlng:latlng},
+                success: function(result) {
+                    $('#sonuc').html(result);
+                },
+                error: function() {
+                    alert('Some error found. Please try again!');
+                }
+        });
+
+    }
+
+
+
+</script>
+<p id="sonuc"></p>
+
+</body>
+</html>
